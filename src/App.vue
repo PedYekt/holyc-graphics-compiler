@@ -14,6 +14,9 @@
           {{ isRunning ? 'Running...' : 'Run (Ctrl+Enter)' }}
         </button>
         <button @click="shareCode" class="share-btn">Share</button>
+        <a href="https://github.com/PedYekt/holyc-graphics-compiler" target="_blank" class="docs-btn" title="View Documentation">
+          📖 Docs
+        </a>
       </div>
     </header>
 
@@ -293,6 +296,27 @@ onMounted(() => {
 
 .share-btn:hover {
   background: #0b7dda;
+}
+
+.docs-btn {
+  padding: 8px 20px;
+  background: #9C27B0;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.docs-btn:hover {
+  background: #7B1FA2;
+  transform: translateY(-1px);
 }
 
 .main-content {

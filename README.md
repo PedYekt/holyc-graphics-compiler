@@ -11,6 +11,10 @@ A graphics-focused online environment for HolyC-style programming with TempleOS 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-orange)
 
+## 🚀 [Live Demo](https://flourishing-axolotl-3ed6b5.netlify.app/)
+
+Try it out now: **https://flourishing-axolotl-3ed6b5.netlify.app/**
+
 ## Features
 
 - **Monaco Editor Integration**: Full-featured code editor with HolyC syntax highlighting
