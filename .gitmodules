@@ -1,0 +1,3 @@
+[submodule "reference-interpreter"]
+	path = reference-interpreter
+	url = https://github.com/leozamboni/HolyC-interpreter.git
