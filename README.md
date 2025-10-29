@@ -1,10 +1,15 @@
 # HolyC Graphics Compiler
 
+> **Show N' Tell Challenge** - *Claude Code Builder Club*
+>
+> Built with Claude Code to demonstrate TempleOS-style graphics programming in the browser!
+
 A graphics-focused online environment for HolyC-style programming with TempleOS graphics primitives. This is **not a full HolyC compiler**, but rather a specialized tool for creating TempleOS-style graphics and visual programs using JavaScript syntax.
 
 ![HolyC Online](https://img.shields.io/badge/HolyC-Online-purple)
 ![Vue 3](https://img.shields.io/badge/Vue-3-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-orange)
 
 ## Features
 
