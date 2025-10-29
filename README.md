@@ -13,7 +13,7 @@ A graphics-focused online environment for HolyC-style programming with TempleOS 
 
 ## 🚀 [Live Demo](https://flourishing-axolotl-3ed6b5.netlify.app/)
 
-Try it out now: **flourishing-axolotl-3ed6b5.netlify.app**
+Try it out now: **https://flourishing-axolotl-3ed6b5.netlify.app**
 
 ## Features
 
